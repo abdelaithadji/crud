@@ -1,25 +1,20 @@
 {
-  "name": "crud",
+  "name": "abdel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abdelaithadji/crud.git"
-  },
-  "author": "abdel",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abdelaithadji/crud/issues"
-  },
-  "homepage": "https://github.com/abdelaithadji/crud#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
     "gulp-minify-css": "^1.2.1",
-    "gulp-sass": "^2.1.0"
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-sass": "^2.1.0",
+    "jquery": "^2.1.4",
+    "twbs": "0.0.6"
   }
 }
